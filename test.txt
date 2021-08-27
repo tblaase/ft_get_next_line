@@ -1,0 +1,8 @@
+get_next_line takes one line at a time
+this is neither good nor bad, it's just fine
+Like writing this poem line by line
+I do the same with my get_next_line
+
+All credits for this poem go to @nlenoch
+You can find him on slack.
+He is part of 42Heilbronn
