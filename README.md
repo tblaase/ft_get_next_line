@@ -1,4 +1,4 @@
-# get_next_line with bonus (125/100)
+# get_next_line (125/100)
 
 <img src="images/result.png" >
 
