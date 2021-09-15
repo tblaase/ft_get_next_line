@@ -6,7 +6,7 @@ This is a solution for the latest(July 2021) version of the get_next_line projec
 This code might not be perfect but it is the first piece of code i produced which looks not too bad.<br>
 This solution is leak tested with valgrind.<br>
 This solution produces no errors with https://github.com/Tripouille/gnlTester, even for the docker test.<br>
-This solution uses a total of 9 functions (10 funcions is allowed).<br>
+This solution uses a total of 9 functions (10 functions is allowed).<br>
 The .c-files for the bonus end with _bonus. .<br>
 The bonus code has almost no differences from the normal code.<br>
 The comments in the bonus part are shorter, so take a look at the normal codes comments instead.<br>
