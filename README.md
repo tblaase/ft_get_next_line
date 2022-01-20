@@ -1,4 +1,4 @@
-# get_next_line (125/100)
+# ft_get_next_line (125/100)
 
 <img src="images/result.png" >
 
